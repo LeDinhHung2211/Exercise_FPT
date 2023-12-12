@@ -1,4 +1,4 @@
-14:20:52 **** Incremental Build of configuration Debug_RAM for project Exercise_1 ****
+09:23:07 **** Incremental Build of configuration Debug_RAM for project Exercise_1 ****
 make -j12 all 
 Building file: ../src/main.c
 Invoking: Standard S32DS C Compiler
@@ -13,10 +13,10 @@ Finished building target: Exercise_1.elf
 Invoking: Standard S32DS Print Size
 arm-none-eabi-size --format=berkeley Exercise_1.elf
    text	   data	    bss	    dec	    hex	filename
-   3792	   1088	   2084	   6964	   1b34	Exercise_1.elf
+   3812	   1088	   2084	   6984	   1b48	Exercise_1.elf
 Finished building: Exercise_1.siz
  
-14:20:57 **** Incremental Build of configuration Debug for project Exercise_1 ****
+09:23:28 **** Incremental Build of configuration Debug for project Exercise_1 ****
 make -j12 all 
 Building file: ../src/main.c
 Invoking: Standard S32DS C Compiler
@@ -31,86 +31,6 @@ Finished building target: Exercise_1.elf
 Invoking: Standard S32DS Print Size
 arm-none-eabi-size --format=berkeley Exercise_1.elf
    text	   data	    bss	    dec	    hex	filename
-   3836	   1088	   3104	   8028	   1f5c	Exercise_1.elf
-Finished building: Exercise_1.siz
- 
-14:23:15 **** Incremental Build of configuration Debug for project Exercise_1 ****
-make -j12 all 
-Invoking: Standard S32DS Print Size
-arm-none-eabi-size --format=berkeley Exercise_1.elf
-   text	   data	    bss	    dec	    hex	filename
-   3836	   1088	   3104	   8028	   1f5c	Exercise_1.elf
-Finished building: Exercise_1.siz
- 
-14:24:16 **** Incremental Build of configuration Debug for project Exercise_1 ****
-make -j12 all 
-Building file: ../src/main.c
-Invoking: Standard S32DS C Compiler
-arm-none-eabi-gcc "@src/clocks_and_modes.args" -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
-Finished building: ../src/main.c
- 
-Building target: Exercise_1.elf
-Invoking: Standard S32DS C Linker
-arm-none-eabi-gcc -o "Exercise_1.elf" "@Exercise_1.args"   
-Finished building target: Exercise_1.elf
- 
-Invoking: Standard S32DS Print Size
-arm-none-eabi-size --format=berkeley Exercise_1.elf
-   text	   data	    bss	    dec	    hex	filename
-   3836	   1088	   3104	   8028	   1f5c	Exercise_1.elf
-Finished building: Exercise_1.siz
- 
-14:26:55 **** Incremental Build of configuration Debug for project Exercise_1 ****
-make -j12 all 
-Building file: ../src/main.c
-Invoking: Standard S32DS C Compiler
-arm-none-eabi-gcc "@src/clocks_and_modes.args" -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
-Finished building: ../src/main.c
- 
-Building target: Exercise_1.elf
-Invoking: Standard S32DS C Linker
-arm-none-eabi-gcc -o "Exercise_1.elf" "@Exercise_1.args"   
-Finished building target: Exercise_1.elf
- 
-Invoking: Standard S32DS Print Size
-arm-none-eabi-size --format=berkeley Exercise_1.elf
-   text	   data	    bss	    dec	    hex	filename
-   3836	   1088	   3104	   8028	   1f5c	Exercise_1.elf
-Finished building: Exercise_1.siz
- 
-14:28:28 **** Incremental Build of configuration Debug for project Exercise_1 ****
-make -j12 all 
-Building file: ../src/main.c
-Invoking: Standard S32DS C Compiler
-arm-none-eabi-gcc "@src/clocks_and_modes.args" -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
-Finished building: ../src/main.c
- 
-Building target: Exercise_1.elf
-Invoking: Standard S32DS C Linker
-arm-none-eabi-gcc -o "Exercise_1.elf" "@Exercise_1.args"   
-Finished building target: Exercise_1.elf
- 
-Invoking: Standard S32DS Print Size
-arm-none-eabi-size --format=berkeley Exercise_1.elf
-   text	   data	    bss	    dec	    hex	filename
-   3844	   1088	   3104	   8036	   1f64	Exercise_1.elf
-Finished building: Exercise_1.siz
- 
-14:56:53 **** Incremental Build of configuration Debug for project Exercise_1 ****
-make -j12 all 
-Building file: ../src/main.c
-Invoking: Standard S32DS C Compiler
-arm-none-eabi-gcc "@src/clocks_and_modes.args" -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
-Finished building: ../src/main.c
- 
-Building target: Exercise_1.elf
-Invoking: Standard S32DS C Linker
-arm-none-eabi-gcc -o "Exercise_1.elf" "@Exercise_1.args"   
-Finished building target: Exercise_1.elf
- 
-Invoking: Standard S32DS Print Size
-arm-none-eabi-size --format=berkeley Exercise_1.elf
-   text	   data	    bss	    dec	    hex	filename
-   3824	   1088	   3104	   8016	   1f50	Exercise_1.elf
+   3856	   1088	   3104	   8048	   1f70	Exercise_1.elf
 Finished building: Exercise_1.siz
  

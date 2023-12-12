@@ -8141,7 +8141,7 @@ typedef struct {
 
 /** PCC - Register Layout Typedef */
 typedef struct {
-  __IO uint32_t PCCn[PCC_PCCn_COUNT];              /**< PCC Reserved Register 0..PCC CMP0 Register, array offset: 0x0, array step: 0x4 */
+  __IO uint32_t PCCn[PCC_PCCn_COUNT];               /**< PCC Reserved Register 0..PCC CMP0 Register, array offset: 0x0, array step: 0x4 */
 } PCC_Type, *PCC_MemMapPtr;
 
  /** Number of instances of the PCC module. */

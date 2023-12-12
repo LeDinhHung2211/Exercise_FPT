@@ -1,4 +1,4 @@
-14:56:53 **** Incremental Build of configuration Debug for project Exercise_1 ****
+09:23:28 **** Incremental Build of configuration Debug for project Exercise_1 ****
 make -j12 all 
 Building file: ../src/main.c
 Invoking: Standard S32DS C Compiler
@@ -13,9 +13,9 @@ Finished building target: Exercise_1.elf
 Invoking: Standard S32DS Print Size
 arm-none-eabi-size --format=berkeley Exercise_1.elf
    text	   data	    bss	    dec	    hex	filename
-   3824	   1088	   3104	   8016	   1f50	Exercise_1.elf
+   3856	   1088	   3104	   8048	   1f70	Exercise_1.elf
 Finished building: Exercise_1.siz
  
 
-14:56:54 Build Finished (took 1s.78ms)
+09:23:29 Build Finished (took 1s.143ms)
 

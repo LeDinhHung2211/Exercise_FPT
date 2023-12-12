@@ -7,7 +7,7 @@
 volatile uint8_t mode_led =0;
 volatile uint8_t mode_blink = 0;
 
-volatile uint32_t timer_val =10000000;
+volatile uint32_t timer_val =20000000;
 
 void NVIC_init_IRQs (void)
 {
@@ -60,7 +60,7 @@ void LPIT0_init(){
 									  /* SW_RST=0: SW reset does not reset timer chans, regs */
 									  /* M_CEN=1: enable module clk (allows writing other LPIT0 regs) */
 	LPIT0->MIER = LPIT_MIER_TIE0_MASK;  /* TIE0=1: Timer Interrupt Enabled fot Chan 0 */
-	LPIT0->TMR[0].TVAL = 20000000;      /* Chan 0 Timeout period: 40M clocks */
+	LPIT0->TMR[0].TVAL = 10000000;      /* Chan 0 Timeout period: 40M clocks */
 
 	LPIT0->TMR[0].TCTRL |= LPIT_TMR_TCTRL_T_EN_MASK;
 							  /* T_EN=1: Timer channel is enabled */
@@ -71,6 +71,28 @@ void LPIT0_init(){
 							 /* TROT=0 Timer will not reload on trigger */
 							 /* TRG_SRC=0: External trigger soruce */
 							 /* TRG_SEL=0: Timer chan 0 trigger source is selected*/
+}
+
+
+
+int timer_blink(int mode_blink){
+	uint32_t time_val;
+	switch (mode_blink){
+	case 0:
+		time_val =0;
+		break;
+	case 1:
+		time_val =20000000;
+		break;
+	case 2:
+		time_val =40000000;
+		break;
+	case 3:
+		time_val =80000000;
+		break;
+
+	}
+	return time_val;
 }
 
 //Toggle LED  b0 r15
@@ -104,7 +126,7 @@ void clear_led(){
 	PTD->PDOR |= (1<<16);
 }
 
-void func_blink(uint8_t mode_blink , uint8_t mode_led){
+void func_blink_led(uint8_t mode_blink , uint8_t mode_led){
 	if(mode_blink!=0){
 		switch(mode_led){
 			case 0:
@@ -176,7 +198,7 @@ int main() {
 	PORT_Init();
 	SOSC_init_8MHz();       /* Initialize system oscilator for 8 MHz xtal */
 	SPLL_init_160MHz();     /* Initialize SPLL to 160 MHz with 8 MHz SOSC */
-	//NormalRUNmode_80MHz();  /* Init clocks: 80 MHz sysclk & core, 40 MHz bus, 20 MHz flash */
+	NormalRUNmode_80MHz();  /* Init clocks: 80 MHz sysclk & core, 40 MHz bus, 20 MHz flash */
 	NVIC_init_IRQs();
 	LPIT0_init();
 	//config interrupt
@@ -185,10 +207,6 @@ int main() {
 	clear_led();
 
 	while(1){
-	//	  if(((PTC->PDIR >>12)&1)==0){
-	//		  PTD->PDOR ^= (1<<0);
-	//		  while(((PTC->PDIR >>12)&1)==0);
-	//	  }
 
 	}
 	return 0;
@@ -197,22 +215,13 @@ void PORTC_IRQHandler() {
 
 	if((PORTC->ISFR & (1U << 12)) != 0) { // SW2 nút nhấn
 	// Xử lý ngắt SW1 nhấn
-//		PTD->PDOR ^= (1<<15);
 		mode_blink++;
-		if(mode_blink==0){
-			LPIT0->TMR[0].TVAL = 0;
-			func_blink(mode_blink, mode_led);
-		}
-		else
-			timer_val *= mode_blink;
 		if(mode_blink>3) {
-			LPIT0->TMR[0].TVAL = 0;
 			mode_blink =0;
-			func_blink(mode_blink, mode_led);
-			timer_val =10000000;
+			func_blink_led(mode_blink, mode_led);
 		}
+		timer_val = timer_blink(mode_blink);
 		LPIT0->TMR[0].TVAL = timer_val;
-	//	while((PORTC->ISFR & (1<<12)) != 0);
 		PORTC->ISFR |= (1<<12); // Clear cờ ngắt
 	}
 
@@ -221,7 +230,6 @@ void PORTC_IRQHandler() {
 		mode_led++;
 		if(mode_led>6) mode_led =0;
 		clear_led();
-		//	while((PORTC->ISFR & (1<<12)) != 0);
 		PORTC->ISFR |= (1<<13); // Clear cờ ngắt
 
 	}
@@ -229,6 +237,6 @@ void PORTC_IRQHandler() {
 
 void LPIT0_Ch0_IRQHandler ()
 {
-	func_blink(mode_blink, mode_led);
+	func_blink_led(mode_blink, mode_led);
 	LPIT0->MSR |= LPIT_MSR_TIF0_MASK; /* Clear LPIT0 timer flag 0 */
 }

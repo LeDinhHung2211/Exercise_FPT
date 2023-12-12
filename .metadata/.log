@@ -8729,3 +8729,2179 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY com.freescale.s32ds.cross.sdk.support 1 0 2023-12-09 13:26:39.743
 !MESSAGE Load SDKs, sec.: 0.008
+!SESSION 2023-12-11 08:03:07.910 -----------------------------------------------
+eclipse.buildId=2.0.0.202001161704
+java.version=1.8.0_202
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-11 08:03:26.657
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hungl'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.064
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.095
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.095
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.095
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.095
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.095
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.095
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.095
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.095
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.095
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.095
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.095
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.095
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.095
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.127
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.127
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.127
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.127
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.127
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.142
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.142
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.142
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.142
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.142
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.142
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.142
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.173
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.173
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.173
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.173
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.173
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.173
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.173
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.173
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.173
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.173
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.173
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.189
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.189
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.189
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.189
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.189
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.189
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.189
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.189
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.189
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.189
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.189
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.205
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.205
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.205
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.205
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.205
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.205
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.205
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.205
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.205
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.205
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.205
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.220
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.220
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.220
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.220
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.220
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.220
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.220
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.220
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.220
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.220
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.220
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.236
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.236
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.236
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.236
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.236
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.236
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.236
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.236
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.236
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.236
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.236
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.252
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.252
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.252
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.252
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.252
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.252
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.252
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.252
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.252
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.252
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.252
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.283
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.283
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.283
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.283
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.283
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.283
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.283
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.283
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.283
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.283
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.314
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.314
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.314
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.314
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.314
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.314
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.314
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.314
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.314
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.314
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.314
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.314
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.314
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.314
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.314
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 08:03:29.314
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 1 0 2023-12-11 08:03:29.408
+!MESSAGE Load SDKs, sec.: 0.016
+
+!ENTRY org.eclipse.launchbar.core 2 0 2023-12-11 15:10:22.146
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2023-12-11 15:10:22.148
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-11 15:10:46.051
+!MESSAGE Request for monitor: '42^error,msg="No symbol "_mqx_kernel_data" in current context."' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2023-12-11 15:10:46.051
+!MESSAGE Failed to execute MI command:
+-data-evaluate-expression _mqx_kernel_data
+Error message from debugger back end:
+No symbol "_mqx_kernel_data" in current context.
+!STACK 0
+java.lang.Exception: No symbol "_mqx_kernel_data" in current context.
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:941)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:770)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-11 15:11:02.208
+!MESSAGE Request for monitor: '52^error,msg="No symbol "_mqx_kernel_data" in current context."' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2023-12-11 15:11:02.208
+!MESSAGE Failed to execute MI command:
+-data-evaluate-expression _mqx_kernel_data
+Error message from debugger back end:
+No symbol "_mqx_kernel_data" in current context.
+!STACK 0
+java.lang.Exception: No symbol "_mqx_kernel_data" in current context.
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:941)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:770)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-11 15:11:03.859
+!MESSAGE Request for monitor: '&"monitor _nobr\n"
+@"Command Executed successfully: _nobr\r\n"
+&"flushreg\n"
+~"Register cache flushed.\n"
+&"interpreter-exec mi2 "-break-insert -t -f main"\n"
+&"continue\n"
+~"Continuing.\n"
+*running,thread-id="all"
+=breakpoint-modified,bkpt={number="3",type="breakpoint",disp="del",enabled="y",addr="0x00000a50",func="main",file="../src/main.c",fullname="C:\Users\hungl\OneDrive\Desktop\Exercise_FPT\Exercise_1\src\main.c",line="176",thread-groups=[i1],times="1",original-location="main"}
+~"\nTemporary breakpoint "
+~"3, main () at ../src/main.c:176\n"
+~"176\t\tPORT_Init();\n"
+*stopped,reason="breakpoint-hit",disp="del",bkptno="3",frame={addr="0x00000a50",func="main",args=[],file="../src/main.c",fullname="C:\Users\hungl\OneDrive\Desktop\Exercise_FPT\Exercise_1\src\main.c",line="176"},thread-id="1",stopped-threads="all"
+=breakpoint-deleted,id="3"
+63^error,msg="No symbol "_mqx_kernel_data" in current context."' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2023-12-11 15:11:03.859
+!MESSAGE Failed to execute MI command:
+-data-evaluate-expression _mqx_kernel_data
+Error message from debugger back end:
+No symbol "_mqx_kernel_data" in current context.
+!STACK 0
+java.lang.Exception: No symbol "_mqx_kernel_data" in current context.
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:941)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:770)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-11 15:11:07.519
+!MESSAGE Request for monitor: '*running,thread-id="all"
+=breakpoint-modified,bkpt={number="2",type="breakpoint",disp="keep",enabled="y",addr="0x00000a5c",func="main",file="../src/main.c",fullname="C:\Users\hungl\OneDrive\Desktop\Exercise_FPT\Exercise_1\src\main.c",line="180",thread-groups=[i1],times="2",original-location="C:\\Users\\hungl\\OneDrive\\Desktop\\Exercise_FPT\\Exercise_1\\src\\main.c:180"}
+~"\nBreakpoint "
+~"2, main () at ../src/main.c:180\n"
+~"180\t\tNVIC_init_IRQs();\n"
+*stopped,reason="breakpoint-hit",disp="keep",bkptno="2",frame={addr="0x00000a5c",func="main",args=[],file="../src/main.c",fullname="C:\Users\hungl\OneDrive\Desktop\Exercise_FPT\Exercise_1\src\main.c",line="180"},thread-id="1",stopped-threads="all"
+73^error,msg="No symbol "_mqx_kernel_data" in current context."' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2023-12-11 15:11:07.519
+!MESSAGE Failed to execute MI command:
+-data-evaluate-expression _mqx_kernel_data
+Error message from debugger back end:
+No symbol "_mqx_kernel_data" in current context.
+!STACK 0
+java.lang.Exception: No symbol "_mqx_kernel_data" in current context.
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:941)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:770)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-11 15:13:26.826
+!MESSAGE Request for monitor: '*running,thread-id="all"
+=breakpoint-modified,bkpt={number="1",type="breakpoint",disp="keep",enabled="y",addr="0x00000a94",func="main",file="../src/main.c",fullname="C:\Users\hungl\OneDrive\Desktop\Exercise_FPT\Exercise_1\src\main.c",line="180",thread-groups=[i1],times="1",original-location="C:\\Users\\hungl\\OneDrive\\Desktop\\Exercise_FPT\\Exercise_1\\src\\main.c:180"}
+~"\nBreakpoint "
+~"1, main () at ../src/main.c:180\n"
+~"180\t\tNVIC_init_IRQs();\n"
+*stopped,reason="breakpoint-hit",disp="keep",bkptno="1",frame={addr="0x00000a94",func="main",args=[],file="../src/main.c",fullname="C:\Users\hungl\OneDrive\Desktop\Exercise_FPT\Exercise_1\src\main.c",line="180"},thread-id="1",stopped-threads="all"
+59^error,msg="No symbol "_mqx_kernel_data" in current context."' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2023-12-11 15:13:26.826
+!MESSAGE Failed to execute MI command:
+-data-evaluate-expression _mqx_kernel_data
+Error message from debugger back end:
+No symbol "_mqx_kernel_data" in current context.
+!STACK 0
+java.lang.Exception: No symbol "_mqx_kernel_data" in current context.
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:941)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:770)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-11 15:13:33.320
+!MESSAGE Request for monitor: '74^error,msg="No symbol "_mqx_kernel_data" in current context."' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2023-12-11 15:13:33.320
+!MESSAGE Failed to execute MI command:
+-data-evaluate-expression _mqx_kernel_data
+Error message from debugger back end:
+No symbol "_mqx_kernel_data" in current context.
+!STACK 0
+java.lang.Exception: No symbol "_mqx_kernel_data" in current context.
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:941)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:770)
+!SESSION 2023-12-11 20:36:56.518 -----------------------------------------------
+eclipse.buildId=2.0.0.202001161704
+java.version=1.8.0_202
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-11 20:39:23.508
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hungl'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.469
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.470
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.471
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.471
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.472
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.472
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.473
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.474
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.474
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.475
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.475
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.476
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.476
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.477
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.478
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.478
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.478
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.479
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.479
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.479
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.508
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.508
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.508
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.509
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.510
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.510
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.510
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.511
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.512
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.512
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.513
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.513
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.514
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.553
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.553
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.554
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.554
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.554
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.555
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.555
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.555
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.556
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.556
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.557
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.557
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.597
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.597
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.598
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.599
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.599
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.600
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.600
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.601
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.601
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.601
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.602
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.621
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.622
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.623
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.623
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.623
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.624
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.624
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.624
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.625
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.625
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.625
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.643
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.644
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.644
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.645
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.645
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.645
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.646
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.646
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.646
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.647
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.647
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.662
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.663
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.663
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.664
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.664
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.664
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.665
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.665
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.665
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.666
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.666
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.675
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.676
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.676
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.677
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.677
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.677
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.678
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.679
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.679
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.680
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.681
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.691
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.692
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.692
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.692
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.693
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.693
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.693
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.694
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.694
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.694
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.695
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.722
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.722
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.722
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.723
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.723
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.724
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.724
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.725
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.725
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.726
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.752
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.752
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.753
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.753
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.753
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.754
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.754
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.754
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.755
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.755
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.755
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.756
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.756
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.756
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.757
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-11 20:39:26.757
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 1 0 2023-12-11 20:39:26.841
+!MESSAGE Load SDKs, sec.: 0.007
+
+!ENTRY org.eclipse.launchbar.core 2 0 2023-12-11 22:49:37.812
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2023-12-11 22:49:37.814
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+!SESSION 2023-12-12 08:11:16.120 -----------------------------------------------
+eclipse.buildId=2.0.0.202001161704
+java.version=1.8.0_202
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-12 08:11:27.796
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hungl'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.929
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.931
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.931
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.932
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.932
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.933
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.933
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.934
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.935
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.936
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.936
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.937
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.938
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.938
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.939
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.939
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.940
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.940
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.940
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.941
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.960
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.960
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.960
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.961
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.961
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.962
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.962
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.963
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.963
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.964
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.964
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.965
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.965
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.996
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.996
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.997
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.997
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.998
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.998
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.999
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:28.999
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.000
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.000
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.001
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.001
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.033
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.033
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.034
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.034
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.035
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.035
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.036
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.036
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.037
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.037
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.038
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.049
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.050
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.050
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.050
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.051
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.051
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.051
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.052
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.052
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.053
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.054
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.072
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.072
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.073
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.073
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.074
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.074
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.075
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.075
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.076
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.076
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.077
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.093
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.094
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.094
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.095
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.096
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.097
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.098
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.099
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.100
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.100
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.101
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.116
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.117
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.118
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.118
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.119
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.120
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.120
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.121
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.121
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.122
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.124
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.147
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.148
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.149
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.149
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.150
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.150
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.151
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.152
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.153
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.154
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.155
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.182
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.184
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.185
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.186
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.186
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.187
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.188
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.188
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.189
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.189
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.221
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.222
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.223
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.223
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.224
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.225
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.225
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.226
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.226
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.227
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.228
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.229
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.229
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.230
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.230
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 08:11:29.231
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 1 0 2023-12-12 08:11:29.375
+!MESSAGE Load SDKs, sec.: 0.049
+
+!ENTRY org.eclipse.launchbar.core 2 0 2023-12-12 08:25:07.280
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2023-12-12 08:25:07.281
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 08:26:09.293
+!MESSAGE Request for monitor: '*running,thread-id="all"
+=breakpoint-modified,bkpt={number="1",type="breakpoint",disp="keep",enabled="y",addr="0x00000a94",func="main",file="../src/main.c",fullname="C:\Users\hungl\OneDrive\Desktop\Exercise_FPT\Exercise_1\src\main.c",line="180",thread-groups=[i1],times="1",original-location="C:\\Users\\hungl\\OneDrive\\Desktop\\Exercise_FPT\\Exercise_1\\src\\main.c:180"}
+~"\nBreakpoint "
+~"1, main () at ../src/main.c:180\n"
+~"180\t\tNVIC_init_IRQs();\n"
+*stopped,reason="breakpoint-hit",disp="keep",bkptno="1",frame={addr="0x00000a94",func="main",args=[],file="../src/main.c",fullname="C:\Users\hungl\OneDrive\Desktop\Exercise_FPT\Exercise_1\src\main.c",line="180"},thread-id="1",stopped-threads="all"
+61^error,msg="No symbol "_mqx_kernel_data" in current context."' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2023-12-12 08:26:09.293
+!MESSAGE Failed to execute MI command:
+-data-evaluate-expression _mqx_kernel_data
+Error message from debugger back end:
+No symbol "_mqx_kernel_data" in current context.
+!STACK 0
+java.lang.Exception: No symbol "_mqx_kernel_data" in current context.
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:941)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:770)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 08:26:53.248
+!MESSAGE Request for monitor: '75^error,msg="No symbol "_mqx_kernel_data" in current context."' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2023-12-12 08:26:53.248
+!MESSAGE Failed to execute MI command:
+-data-evaluate-expression _mqx_kernel_data
+Error message from debugger back end:
+No symbol "_mqx_kernel_data" in current context.
+!STACK 0
+java.lang.Exception: No symbol "_mqx_kernel_data" in current context.
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:941)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:770)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 08:28:30.803
+!MESSAGE Request monitor: 'Sequence "", result for executing step #0 = Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : The GDB Server was not able to establish a connection to the target processor. Please check your connections and power. Verify that the launch settings in the Debug Configuration are accurate. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : The GDB Server was not able to establish a connection to the target processor. Please check your connections and power. Verify that the launch settings in the Debug Configuration are accurate. null, even though the request is not set to cancel.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 08:28:30.803
+!MESSAGE Request monitor: 'Sequence "Initializing debugger services", result for executing step #0 = Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : The GDB Server was not able to establish a connection to the target processor. Please check your connections and power. Verify that the launch settings in the Debug Configuration are accurate. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : The GDB Server was not able to establish a connection to the target processor. Please check your connections and power. Verify that the launch settings in the Debug Configuration are accurate. null, even though the request is not set to cancel.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 08:28:30.803
+!MESSAGE Request monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitorWithProgress@1075e38): Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : The GDB Server was not able to establish a connection to the target processor. Please check your connections and power. Verify that the launch settings in the Debug Configuration are accurate. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : The GDB Server was not able to establish a connection to the target processor. Please check your connections and power. Verify that the launch settings in the Debug Configuration are accurate. null, even though the request is not set to cancel.
+
+!ENTRY com.pemicro.debug.gdbjtag.pne 4 5012 2023-12-12 08:28:30.819
+!MESSAGE Error in services launch sequence
+!STACK 1
+org.eclipse.core.runtime.CoreException: PEmicro GDB Launch Failure : The GDB Server was not able to establish a connection to the target processor. Please check your connections and power. Verify that the launch settings in the Debug Configuration are accurate.
+	at org.eclipse.cdt.dsf.concurrent.Sequence.abortExecution(Sequence.java:582)
+	at org.eclipse.cdt.dsf.concurrent.Sequence.access$4(Sequence.java:574)
+	at org.eclipse.cdt.dsf.concurrent.Sequence$2.handleErrorOrWarning(Sequence.java:431)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleFailure(RequestMonitor.java:424)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleCompleted(RequestMonitor.java:387)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor$2.run(RequestMonitor.java:312)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+!SUBENTRY 1 com.pemicro.debug.gdbjtag.pne 8 1 2023-12-12 08:28:30.819
+!MESSAGE PEmicro GDB Launch Failure : The GDB Server was not able to establish a connection to the target processor. Please check your connections and power. Verify that the launch settings in the Debug Configuration are accurate.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 08:54:46.946
+!MESSAGE Request for monitor: '*running,thread-id="all"
+=breakpoint-modified,bkpt={number="1",type="breakpoint",disp="keep",enabled="y",addr="0x00000a94",func="main",file="../src/main.c",fullname="C:\Users\hungl\OneDrive\Desktop\Exercise_FPT\Exercise_1\src\main.c",line="180",thread-groups=[i1],times="1",original-location="C:\\Users\\hungl\\OneDrive\\Desktop\\Exercise_FPT\\Exercise_1\\src\\main.c:180"}
+~"\nBreakpoint "
+~"1, main () at ../src/main.c:180\n"
+~"180\t\tNVIC_init_IRQs();\n"
+*stopped,reason="breakpoint-hit",disp="keep",bkptno="1",frame={addr="0x00000a94",func="main",args=[],file="../src/main.c",fullname="C:\Users\hungl\OneDrive\Desktop\Exercise_FPT\Exercise_1\src\main.c",line="180"},thread-id="1",stopped-threads="all"
+60^error,msg="No symbol "_mqx_kernel_data" in current context."' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2023-12-12 08:54:46.946
+!MESSAGE Failed to execute MI command:
+-data-evaluate-expression _mqx_kernel_data
+Error message from debugger back end:
+No symbol "_mqx_kernel_data" in current context.
+!STACK 0
+java.lang.Exception: No symbol "_mqx_kernel_data" in current context.
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:941)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:770)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 08:58:18.149
+!MESSAGE Request for monitor: '76^error,msg="No symbol "_mqx_kernel_data" in current context."' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2023-12-12 08:58:18.149
+!MESSAGE Failed to execute MI command:
+-data-evaluate-expression _mqx_kernel_data
+Error message from debugger back end:
+No symbol "_mqx_kernel_data" in current context.
+!STACK 0
+java.lang.Exception: No symbol "_mqx_kernel_data" in current context.
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:941)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:770)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:04:56.683
+!MESSAGE Request monitor: 'Sequence "", result for executing step #0 = Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:04:56.685
+!MESSAGE Request monitor: 'Sequence "Initializing debugger services", result for executing step #0 = Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:04:56.687
+!MESSAGE Request monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitorWithProgress@1627bf6): Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY com.pemicro.debug.gdbjtag.pne 4 5012 2023-12-12 09:04:56.695
+!MESSAGE Error in services launch sequence
+!STACK 1
+org.eclipse.core.runtime.CoreException: PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated.
+	at org.eclipse.cdt.dsf.concurrent.Sequence.abortExecution(Sequence.java:582)
+	at org.eclipse.cdt.dsf.concurrent.Sequence.access$4(Sequence.java:574)
+	at org.eclipse.cdt.dsf.concurrent.Sequence$2.handleErrorOrWarning(Sequence.java:431)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleFailure(RequestMonitor.java:424)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleCompleted(RequestMonitor.java:387)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor$2.run(RequestMonitor.java:312)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+!SUBENTRY 1 com.pemicro.debug.gdbjtag.pne 8 1 2023-12-12 09:04:56.697
+!MESSAGE PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:05:03.563
+!MESSAGE Request monitor: 'Sequence "", result for executing step #0 = Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:05:03.564
+!MESSAGE Request monitor: 'Sequence "Initializing debugger services", result for executing step #0 = Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:05:03.564
+!MESSAGE Request monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitorWithProgress@1696ebb): Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY com.pemicro.debug.gdbjtag.pne 4 5012 2023-12-12 09:05:03.569
+!MESSAGE Error in services launch sequence
+!STACK 1
+org.eclipse.core.runtime.CoreException: PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated.
+	at org.eclipse.cdt.dsf.concurrent.Sequence.abortExecution(Sequence.java:582)
+	at org.eclipse.cdt.dsf.concurrent.Sequence.access$4(Sequence.java:574)
+	at org.eclipse.cdt.dsf.concurrent.Sequence$2.handleErrorOrWarning(Sequence.java:431)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleFailure(RequestMonitor.java:424)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleCompleted(RequestMonitor.java:387)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor$2.run(RequestMonitor.java:312)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+!SUBENTRY 1 com.pemicro.debug.gdbjtag.pne 8 1 2023-12-12 09:05:03.570
+!MESSAGE PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:05:08.227
+!MESSAGE Request monitor: 'Sequence "", result for executing step #0 = Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:05:08.229
+!MESSAGE Request monitor: 'Sequence "Initializing debugger services", result for executing step #0 = Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:05:08.231
+!MESSAGE Request monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitorWithProgress@109741b): Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY com.pemicro.debug.gdbjtag.pne 4 5012 2023-12-12 09:05:08.240
+!MESSAGE Error in services launch sequence
+!STACK 1
+org.eclipse.core.runtime.CoreException: PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated.
+	at org.eclipse.cdt.dsf.concurrent.Sequence.abortExecution(Sequence.java:582)
+	at org.eclipse.cdt.dsf.concurrent.Sequence.access$4(Sequence.java:574)
+	at org.eclipse.cdt.dsf.concurrent.Sequence$2.handleErrorOrWarning(Sequence.java:431)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleFailure(RequestMonitor.java:424)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleCompleted(RequestMonitor.java:387)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor$2.run(RequestMonitor.java:312)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+!SUBENTRY 1 com.pemicro.debug.gdbjtag.pne 8 1 2023-12-12 09:05:08.241
+!MESSAGE PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:05:29.429
+!MESSAGE Request monitor: 'Sequence "", result for executing step #0 = Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:05:29.430
+!MESSAGE Request monitor: 'Sequence "Initializing debugger services", result for executing step #0 = Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:05:29.432
+!MESSAGE Request monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitorWithProgress@155ac19): Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY com.pemicro.debug.gdbjtag.pne 4 5012 2023-12-12 09:05:29.440
+!MESSAGE Error in services launch sequence
+!STACK 1
+org.eclipse.core.runtime.CoreException: PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated.
+	at org.eclipse.cdt.dsf.concurrent.Sequence.abortExecution(Sequence.java:582)
+	at org.eclipse.cdt.dsf.concurrent.Sequence.access$4(Sequence.java:574)
+	at org.eclipse.cdt.dsf.concurrent.Sequence$2.handleErrorOrWarning(Sequence.java:431)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleFailure(RequestMonitor.java:424)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleCompleted(RequestMonitor.java:387)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor$2.run(RequestMonitor.java:312)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+!SUBENTRY 1 com.pemicro.debug.gdbjtag.pne 8 1 2023-12-12 09:05:29.441
+!MESSAGE PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated.
+
+!ENTRY org.eclipse.core.jobs 2 2 2023-12-12 09:05:40.499
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.pemicro.debug.gdbjtag.pne.Backend$GdbServerStep$2
+
+!ENTRY org.eclipse.core.jobs 2 2 2023-12-12 09:05:40.499
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.debug.internal.ui.DebugUIPlugin$8
+!SESSION 2023-12-12 09:05:45.285 -----------------------------------------------
+eclipse.buildId=2.0.0.202001161704
+java.version=1.8.0_202
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-12 09:05:57.834
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hungl'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.631
+!MESSAGE Actions have been registered for SDK FreeMaster_S32xx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.654
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.654
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.654
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.654
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.654
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.654
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.654
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.654
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.654
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.654
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.654
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.654
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.654
+!MESSAGE Actions have been registered for SDK FreeMaster_KEAxx_2.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.693
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.693
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.693
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.693
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.693
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.693
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.693
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.693
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.693
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.693
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.693
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.693
+!MESSAGE Actions have been registered for SDK S32K11x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.724
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.724
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.724
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.724
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.724
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.724
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.724
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.724
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.724
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.724
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.724
+!MESSAGE Actions have been registered for SDK S32K144_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.740
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.740
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.740
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.740
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.740
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.740
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.740
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.740
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.740
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.740
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.740
+!MESSAGE Actions have been registered for SDK S32K142_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.754
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.754
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.754
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.754
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.754
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.754
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.754
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.754
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.754
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.754
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.754
+!MESSAGE Actions have been registered for SDK S32K146_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.770
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.770
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.770
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.770
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.770
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.770
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.770
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.770
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.770
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.770
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.770
+!MESSAGE Actions have been registered for SDK S32K148_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.785
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.785
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.785
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.785
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.785
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.785
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.785
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.785
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.785
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.785
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.785
+!MESSAGE Actions have been registered for SDK S32K116_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.785
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.785
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.785
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.785
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.785
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.785
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.801
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.801
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.801
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.801
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.801
+!MESSAGE Actions have been registered for SDK S32K118_SDK_3.0.0_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.817
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.817
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.817
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.817
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.817
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.817
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.817
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.817
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.817
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.817
+!MESSAGE Actions have been registered for SDK KEAx_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.832
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.848
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.848
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.848
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.848
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.848
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.848
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.848
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.848
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.848
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.848
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.848
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.848
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.848
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.848
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 0 0 2023-12-12 09:05:58.848
+!MESSAGE Actions have been registered for SDK S32K14x_AMMCLIB_1.1.18_PATH.
+
+!ENTRY com.freescale.s32ds.cross.sdk.support 1 0 2023-12-12 09:05:58.928
+!MESSAGE Load SDKs, sec.: 0.016
+
+!ENTRY org.eclipse.launchbar.core 2 0 2023-12-12 09:06:19.294
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2023-12-12 09:06:19.294
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:06:26.361
+!MESSAGE Request monitor: 'Sequence "", result for executing step #0 = Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:06:26.364
+!MESSAGE Request monitor: 'Sequence "Initializing debugger services", result for executing step #0 = Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:06:26.366
+!MESSAGE Request monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitorWithProgress@927894): Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY com.pemicro.debug.gdbjtag.pne 4 5012 2023-12-12 09:06:26.396
+!MESSAGE Error in services launch sequence
+!STACK 1
+org.eclipse.core.runtime.CoreException: PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated.
+	at org.eclipse.cdt.dsf.concurrent.Sequence.abortExecution(Sequence.java:582)
+	at org.eclipse.cdt.dsf.concurrent.Sequence.access$4(Sequence.java:574)
+	at org.eclipse.cdt.dsf.concurrent.Sequence$2.handleErrorOrWarning(Sequence.java:431)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleFailure(RequestMonitor.java:424)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleCompleted(RequestMonitor.java:387)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor$2.run(RequestMonitor.java:312)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+!SUBENTRY 1 com.pemicro.debug.gdbjtag.pne 8 1 2023-12-12 09:06:26.399
+!MESSAGE PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:06:40.329
+!MESSAGE Request monitor: 'Sequence "", result for executing step #0 = Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:06:40.332
+!MESSAGE Request monitor: 'Sequence "Initializing debugger services", result for executing step #0 = Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:06:40.333
+!MESSAGE Request monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitorWithProgress@14843c5): Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY com.pemicro.debug.gdbjtag.pne 4 5012 2023-12-12 09:06:40.341
+!MESSAGE Error in services launch sequence
+!STACK 1
+org.eclipse.core.runtime.CoreException: PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated.
+	at org.eclipse.cdt.dsf.concurrent.Sequence.abortExecution(Sequence.java:582)
+	at org.eclipse.cdt.dsf.concurrent.Sequence.access$4(Sequence.java:574)
+	at org.eclipse.cdt.dsf.concurrent.Sequence$2.handleErrorOrWarning(Sequence.java:431)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleFailure(RequestMonitor.java:424)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleCompleted(RequestMonitor.java:387)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor$2.run(RequestMonitor.java:312)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+!SUBENTRY 1 com.pemicro.debug.gdbjtag.pne 8 1 2023-12-12 09:06:40.342
+!MESSAGE PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:06:58.175
+!MESSAGE Request monitor: 'Sequence "", result for executing step #0 = Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:06:58.176
+!MESSAGE Request monitor: 'Sequence "Initializing debugger services", result for executing step #0 = Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:06:58.177
+!MESSAGE Request monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitorWithProgress@7d6b6d): Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null' resulted in a cancel status: Status CANCEL: com.pemicro.debug.gdbjtag.pne code=1 PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated. null, even though the request is not set to cancel.
+
+!ENTRY com.pemicro.debug.gdbjtag.pne 4 5012 2023-12-12 09:06:58.182
+!MESSAGE Error in services launch sequence
+!STACK 1
+org.eclipse.core.runtime.CoreException: PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated.
+	at org.eclipse.cdt.dsf.concurrent.Sequence.abortExecution(Sequence.java:582)
+	at org.eclipse.cdt.dsf.concurrent.Sequence.access$4(Sequence.java:574)
+	at org.eclipse.cdt.dsf.concurrent.Sequence$2.handleErrorOrWarning(Sequence.java:431)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleFailure(RequestMonitor.java:424)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleCompleted(RequestMonitor.java:387)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor$2.run(RequestMonitor.java:312)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+!SUBENTRY 1 com.pemicro.debug.gdbjtag.pne 8 1 2023-12-12 09:06:58.183
+!MESSAGE PEmicro GDB Launch Failure : Another GDB Server debug session is alreadyusing the same Server Port number. To run simultaneous debug sessions, please specify a unique Server Port and GDBMI Port in the Debug Configuration for each project. If another session is not running simultaneously, make sure that the pegdbserver_console and the arm-none-eabi-gdb processes have terminated.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:07:31.801
+!MESSAGE Request for monitor: '65^error,msg="No symbol "_mqx_kernel_data" in current context."' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2023-12-12 09:07:31.801
+!MESSAGE Failed to execute MI command:
+-data-evaluate-expression _mqx_kernel_data
+Error message from debugger back end:
+No symbol "_mqx_kernel_data" in current context.
+!STACK 0
+java.lang.Exception: No symbol "_mqx_kernel_data" in current context.
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:941)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:770)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:09:38.514
+!MESSAGE Request for monitor: '72^error,msg="No symbol "_mqx_kernel_data" in current context."' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2023-12-12 09:09:38.514
+!MESSAGE Failed to execute MI command:
+-data-evaluate-expression _mqx_kernel_data
+Error message from debugger back end:
+No symbol "_mqx_kernel_data" in current context.
+!STACK 0
+java.lang.Exception: No symbol "_mqx_kernel_data" in current context.
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:941)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:770)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:23:36.064
+!MESSAGE Request for monitor: '62^error,msg="No symbol "_mqx_kernel_data" in current context."' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2023-12-12 09:23:36.064
+!MESSAGE Failed to execute MI command:
+-data-evaluate-expression _mqx_kernel_data
+Error message from debugger back end:
+No symbol "_mqx_kernel_data" in current context.
+!STACK 0
+java.lang.Exception: No symbol "_mqx_kernel_data" in current context.
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:941)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:770)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2023-12-12 09:25:00.723
+!MESSAGE Request for monitor: '76^error,msg="No symbol "_mqx_kernel_data" in current context."' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2023-12-12 09:25:00.723
+!MESSAGE Failed to execute MI command:
+-data-evaluate-expression _mqx_kernel_data
+Error message from debugger back end:
+No symbol "_mqx_kernel_data" in current context.
+!STACK 0
+java.lang.Exception: No symbol "_mqx_kernel_data" in current context.
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:941)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:770)
